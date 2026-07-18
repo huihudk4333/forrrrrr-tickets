@@ -13,32 +13,32 @@
   "categories": [
     {
       "id": "general",
-      "label": "General Support",
-      "description": "General questions or help",
+      "label": "giveaway sponsor",
+      "description": "sponsor a giveaway",
       "emoji": "🧩"
     },
     {
-      "id": "billing",
-      "label": "Billing & Payments",
-      "description": "Issues with orders, refunds, payments",
+      "id": "giveaway claim",
+      "label": "giveaway claim",
+      "description": "claim a giveaway",
       "emoji": "💳"
     },
     {
       "id": "technical",
-      "label": "Technical Issue",
-      "description": "Bugs, errors, or something broken",
+      "label": "spawner buy",
+      "description": "buy spawners from staff",
       "emoji": "🛠️"
     },
     {
       "id": "report",
-      "label": "Report a User",
-      "description": "Report abuse or rule-breaking",
+      "label": "spawner sell",
+      "description": "sell spawners to staff",
       "emoji": "🚨"
     },
     {
-      "id": "other",
-      "label": "Other",
-      "description": "Anything else",
+      "id": "partner",
+      "label": "partner",
+      "description": "partner with us",
       "emoji": "❓"
     }
   ]
