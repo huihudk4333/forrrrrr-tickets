@@ -1,7 +1,7 @@
 {
   "supportRoleIds": ["PUT_SUPPORT_ROLE_ID_HERE"],
-  "ticketCategoryId": "PUT_DISCORD_CATEGORY_CHANNEL_ID_HERE",
-  "transcriptLogChannelId": "PUT_LOG_CHANNEL_ID_HERE",
+  "ticketCategoryId": "1527923229480583409",
+  "transcriptLogChannelId": "1527245695612878998",
   "maxOpenTicketsPerUser": 1,
   "closeCountdownSeconds": 5,
   "panel": {
